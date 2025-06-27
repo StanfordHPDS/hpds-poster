@@ -13,9 +13,9 @@
   departments: "Department Name",
 
   // University logo.
-  univ_logo: "_extensions/hpds-poster/images/stanfordlogo.png",
+  univ_logo: "_extensions/StanfordHPDS/hpds-poster/images/stanfordlogo.png",
   
-  lab_logo: "_extensions/hpds-poster/images/hpdslogo.png",
+  lab_logo: "_extensions/StanfordHPDS/hpds-poster/images/hpdslogo.png",
 
   // Footer text.
   // For instance, Name of Conference, Date, Location.
